@@ -1,89 +1,95 @@
-# HTML & CSS
+# GDG PUP HTML & CSS Study Jam 1
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Welcome to **HTML & CSS Workshop!**
+Welcome to the **HTML & CSS Workshop** by **GDG on Campus PUP**! 🚀
 
-In this workshop, we learn the basics of HTML and CSS together at GDG PUP Web Development.
+This repository contains the materials and activities for our study jam. Whether you're a beginner or looking to refresh your skills, this repo will guide you through building your first portfolio website.
 
-You will practice web design with simple, hands‑on examples 🌐. This repository is made for cadets to review and strengthen their skills from the live study jam on November 29.
+## 📂 Repository Structure
 
-It is useful if you want to remember what you learned, or if you are starting web development for the first time. Step by step, we will turn your ideas into nice web pages!
+Explore the contents of this repository below. Click on the folder names to navigate!
 
-### 👀 What's Inside It
+### 1. [Live Project](./Live%20Project)
+This folder contains the **Finished Code** we used during the live coding session.
+*   **Use this if:** You want to review what we built during the event or start your portfolio from the base template.
+*   **Contains:** `index.html`, `styles.css`, and a guide on how to customize it.
 
-[Will be updated in feuture date]
+### 2. [Post-Jam Activity](./Post-Jam%20Activity)
+This is your **Challenge**! 🎯
+*   **Use this if:** You are ready to apply what you learned and extend the portfolio.
+*   **The Mission:** Add 2 new sections (Education & Certifications) to the portfolio.
+*   **Contains:** A modified boilerplate with instructions for the activity.
 
-## 📅 Assigments
+### 3. [Assets](./Assets)
+Contains images and resources used in the guides and tutorials.
 
-## ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML Assignments
-
-[Will be updated in later dates]
-
-### ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS Assignments
-
-[Will be updated in later dates]
-
-## Your First Project Assignment!
-
-[Will be updated in later dates]
-
-### Project Description
-
-[Will be updated in later dates]
-
-### Skills Practiced
-
-[Will be updated in later dates]
+> **Note:** You can ignore the `.github` folder. It contains configuration files for the repository template and isn't part of the workshop.
 
 ---
 
-## 🌟 Getting Started with GDG-PUP Repository Template
+## 🌟 Getting Started
 
-Follow these steps to set up your own repository using the GDG-PUP template, complete with an existing directory structure and files to participate in HTML & CSS workshop.
+Follow these simple steps to get your own copy of the project!
 
-1. Access the Template:
+### Step 1: Fork the Repository
+First, we need to make a copy of this project into your own GitHub account.
+1.  Look for the **Fork** button at the top-right corner of this page.
+2.  Click it!
 
-- Go to the main page of the GDG-PUP repository on GitHub.
-- Click on the **Use this template** button.
+![Fork Button](./Assets/Images/Setup/fork-button.png)
+*(Image Description: The 'Fork' button located at the top right of the GitHub page, between 'Watch' and 'Star'.)*
 
-![Step 1](./Assets/Images/Setup/1.png)
+### Step 2: Create Your Fork
+1.  If asked **"How are you planning to use this fork?"**, select **For my own purposes**.
+2.  You will see a page to name your fork. You can leave the name as is.
+3.  Click the green **Create fork** button.
 
-2. Name and Visibility:
+![Create Fork](./Assets/Images/Setup/create-fork.png)
+*(Image Description: The 'Create a new fork' page. If prompted, select 'For my own purposes' before clicking the green 'Create fork' button.)*
 
-- Name the new repository following the format GDG-PUP-HTML-AND-CSS
-- Ensure it is set to public.
+### Step 3: Open with GitHub Desktop
+Now that you have your own copy, let's put it on your computer.
+1.  On your new repository page, click the green **Code** button.
+2.  Select **Open with GitHub Desktop**.
 
-![Step 2](./Assets/Images/Setup/2.png)
+![Open with GitHub Desktop](./Assets/Images/Setup/open-with-desktop.png)
+*(Image Description: The dropdown menu that appears after clicking the green 'Code' button, highlighting the 'Open with GitHub Desktop' option.)*
 
-2. Create the Repository:
+### Step 4: Clone to Your Computer
+1.  GitHub Desktop will open up.
+2.  Choose a folder on your computer where you want to save the project.
+3.  Click **Clone**.
 
-- Click Create repository on the lower right to generate it in your GitHub account.
+![Clone Dialog](./Assets/Images/Setup/clone-dialog.png)
+*(Image Description: The GitHub Desktop popup window showing the 'Local Path' selection and the blue 'Clone' button.)*
 
-![Step 2](./Assets/Images/Setup/2.png)
+### Step 5: Open in VS Code
+1.  Once the download finishes, you will see buttons in GitHub Desktop.
+2.  Click **Open in Visual Studio Code**.
 
-NOTE: Name it in the GDG-PUP-HTML-AND-CSS format to ensure consistency.
+![Open in VS Code](./Assets/Images/Setup/open-vscode.png)
+*(Image Description: The main view of GitHub Desktop showing the 'Open in Visual Studio Code' button in the right panel.)*
 
-![Step 2](./Assets/Images/Setup/3.png)
+### Step 6: Start Coding!
+1.  In VS Code, look at the file explorer on the left.
+2.  Open the **Post-Jam Activity** folder.
+3.  Right-click `index.html` and choose **Open with Live Server**.
 
-3. Clone the Repository:
-
-- Go to the repository’s main page, click on the Code button, and choose Open with GitHub Desktop to launch it in GitHub Desktop.
-
-![Step 3](./Assets/Images/Setup/4.png)
-
-4. Complete the Clone:
-
-In GitHub Desktop, click Clone to download the repository to your local machine.
-![Step 4](./Assets/Images/Setup/5.png)
+![Live Server](./Assets/Images/Setup/live-server.png)
+*(Image Description: The VS Code context menu showing the 'Open with Live Server' option.)*
 
 ---
 
-## Submission
+## 📅 Submission
 
-- For submission, an assignment in ![Google Classroom](https://classroom.google.com/c/ODAzOTgxMzI0Mzgy) will be provided where you can upload the necessary requirements for this workshop. Please check Google Classroom for further details and deadlines for each assignment.
+Submit your completed Post-Jam Activity via **Google Classroom**.
+*   Check the [Google Classroom](https://classroom.google.com/c/ODAzOTgxMzI0Mzgy) for the assignment link and deadline.
+*   You will likely need to submit the link to your GitHub repository and a screenshot of your site.
 
 ## 🎉 Happy Coding!
 
-We’re excited to see your creativity and dedication shine through this project. Let’s make this an amazing learning experience together. Remember, every line of code you write brings you one step closer to mastering wev development. Good luck, and enjoy the journey! 🚀💻
+We’re excited to see your creativity! Remember, every line of code you write brings you one step closer to mastering web development.
+
+*Built with ❤️ by GDG on Campus PUP*

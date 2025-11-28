@@ -19,7 +19,7 @@ This folder contains the **Finished Code** we used during the live coding sessio
 ### 2. [Post-Jam Activity](./Post-Jam%20Activity)
 This is your **Challenge**! 🎯
 *   **Use this if:** You are ready to apply what you learned and extend the portfolio.
-*   **The Mission:** Add 2 new sections (Education & Certifications) to the portfolio.
+*   **The Mission:** Add 2 new sections of your to the portfolio.
 *   **Contains:** A modified boilerplate with instructions for the activity.
 
 ### 3. [Assets](./Assets)

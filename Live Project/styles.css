@@ -34,7 +34,7 @@ h1,
 h2,
 h3,
 .header-badge {
-  font-family: "Google Sans", "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* Header Section */
@@ -50,7 +50,6 @@ header {
 header h1 {
   font-size: 3.5em;
   margin-bottom: 10px;
-  animation: fadeInDown 1s ease;
   position: relative;
   font-weight: 700;
   letter-spacing: -0.5px;
@@ -133,7 +132,6 @@ section {
   padding: 40px;
   border-radius: 16px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-  animation: fadeInUp 0.8s ease;
   border: 1px solid transparent;
   transition: border-color 0.3s ease;
 }
@@ -480,28 +478,6 @@ footer a:hover {
   transform: translateY(-5px);
   background-color: var(--google-red);
   box-shadow: 0 6px 16px rgba(234, 67, 53, 0.4);
-}
-
-/* Animations */
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 /* Responsive Design */
